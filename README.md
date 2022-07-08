@@ -258,3 +258,4 @@ An example based on the above reference configuration creates pull requests that
 ## License
 
 [MIT](LICENSE)
+test
